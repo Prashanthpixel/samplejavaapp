@@ -10,7 +10,7 @@ import java.util.Date;
 *
 * @author Seshagiri Sriram
 * @version 1.0 
-* @since Janauary 12, 2015
+* @since Janauary 12, 2015 
 * 
 * This is an adaptation of a genenic comparator found on github linked from myjeeva.com 
 * Many thanks for the code!

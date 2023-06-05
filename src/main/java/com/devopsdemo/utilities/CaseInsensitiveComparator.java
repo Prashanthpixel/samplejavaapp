@@ -41,7 +41,7 @@ public class CaseInsensitiveComparator extends GenericComparator {
         }
 
         /*
-         * (non-Javadoc)
+         * (non-Javadoc) 
          * @see com.devopsdemo.utilities.GenericComparator#compare(java.lang.Object, java.lang.Object)
          */
         public int compare(Object o1, Object o2) {
